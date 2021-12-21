@@ -1,0 +1,2 @@
+vc/vc_data/vc_extracted_words.pkl filter=lfs diff=lfs merge=lfs -text
+tj/tj_data/tj_texts_upd.csv filter=lfs diff=lfs merge=lfs -text
